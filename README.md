@@ -1,10 +1,5 @@
 # Sistema de Manutenção Automatizada para Windows
 
-## 📌 Visão Geral
-Este sistema fornece uma interface gráfica para executar operações comuns de manutenção no Windows, como limpeza de arquivos temporários, reparos do sistema e otimização de disco, agrupando comandos técnicos em um painel acessível.
-
-## 🛠️ Funcionalidades Principais
-
 ### 🔄 Operações de Limpeza
 - **Limpeza de arquivos temporários** (pastas TEMP)
 - **Limpeza de disco** (via `cleanmgr`)
